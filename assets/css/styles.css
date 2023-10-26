@@ -418,7 +418,7 @@ body.dark-theme{
 
 /*=============== BARRA DE SCROLL ===============*/
 ::-webkit-scrollbar {
-  width: .6rem;
+  width: .7rem;
   border-radius: .5rem;
   background: hsl(0, 0%, 74%);
 }
